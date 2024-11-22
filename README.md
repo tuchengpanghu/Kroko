@@ -19,6 +19,8 @@ https://filegator.io/
 请假单，ID 等上传
 个人基本信息展示
 
-## 密码管理
+## 私人信息管理
 
-类似于Pandora
+个人文件，密码等
+
+访问此板块需要MFA，类似于Pandora
